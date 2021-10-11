@@ -14,7 +14,7 @@ namespace pr_33_prakt15_3_OAP_Chistyakov_Vitaly_Andreevich
                 intQ.Enqueue(i);
             Console.WriteLine("Размерность очереди " + intQ.Count);
 
-            Console.WriteLine("Верхний элемент очереди = " + intQ.Peek());
+            Console.WriteLine("Верхний элемент очереди = " + intQ.Count);
             Console.WriteLine("Размерность очереди " + intQ.Count);
 
             Console.Write("Содержимое очереди = ");
